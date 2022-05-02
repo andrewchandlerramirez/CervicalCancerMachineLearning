@@ -9,4 +9,8 @@ Using Different machine learning methods in each notebook on the data
     -NerualNetworks
     -Niave Bayes
     -Support Vector Machine
+    -Decision Tree
+    -Decision Tree with bagging
+    -Decision Tree with AdaBoost
+    -Random Forest
     
